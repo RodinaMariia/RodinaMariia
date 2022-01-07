@@ -5,7 +5,7 @@ I’m a full-stack data scientist at the medical device manufacture. :syringe: L
 
 
 ### Skills and tools. :point_down:
-* Python 3: scikit-learn, pandas, numpy, kats, flask, pytorch, nltk, an so on.
+* Python 3: scikit-learn, pandas, numpy, kats, flask, pytorch, nltk and so on.
 * Git, Docker and a bit of MS SQL.
 * Machine learning, statistics and some business process analysis.
 * Quality management and software validation as a bonus. :sparkles:
