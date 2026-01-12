@@ -10,4 +10,3 @@ I'm a ML Engineer experienced in different areas. For the past five years, I've 
 * Machine learning, statistics, and some business process analysis.
 * Quality management and software validation as a bonus. :sparkles:
 
-Ready to relocate. :tractor:
